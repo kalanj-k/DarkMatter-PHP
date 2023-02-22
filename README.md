@@ -14,6 +14,7 @@ The admin panel contains information from the database.
 - CSS3/SASS
 - JavaScript
 - jQuery
+- PHP
 
 ### Screenshots: ###
 
